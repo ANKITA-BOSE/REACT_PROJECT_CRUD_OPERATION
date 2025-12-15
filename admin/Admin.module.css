@@ -1,0 +1,15 @@
+/* Admin styles are now maintained inline in Nav.jsx for better component encapsulation */
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f5f5f5;
+}
+
+    list-style: none;
+}
