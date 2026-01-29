@@ -1,0 +1,19 @@
+{
+  "user": [
+    {
+      "id": "be71",
+      "trainer": "Govind Sir",
+      "subject": "React JS"
+    },
+    {
+      "id": "a75e",
+      "trainer": "Manoj Sir",
+      "subject": "Advanced Java"
+    },
+    {
+      "trainer": "SKR Sir",
+      "subject": "SDLC & Manual Testing",
+      "id": "eb58"
+    }
+  ]
+}
